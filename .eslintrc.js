@@ -37,7 +37,9 @@ module.exports = {
         "object-curly-spacing": 0,
         "object-curly-spacing": 0,
         "comma-spacing": 0,
-        "comma-dangle": 0
+        "comma-dangle": 0,
+        "curly": 0,
+        "vue/no-unused-vars": 0
 
 
     }
