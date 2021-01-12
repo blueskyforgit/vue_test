@@ -39,7 +39,8 @@ module.exports = {
         "comma-spacing": 0,
         "comma-dangle": 0,
         "curly": 0,
-        "vue/no-unused-vars": 0
+        "vue/no-unused-vars": 0,
+        "spaced-comment": 0
 
 
     }
