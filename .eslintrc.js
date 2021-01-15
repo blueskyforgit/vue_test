@@ -40,7 +40,9 @@ module.exports = {
         "comma-dangle": 0,
         "curly": 0,
         "vue/no-unused-vars": 0,
-        "spaced-comment": 0
+        "spaced-comment": 0,
+        "func-call-spacing": 0,
+        "space-in-parens": 0,
 
 
     }
